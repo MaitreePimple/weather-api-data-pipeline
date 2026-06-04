@@ -78,5 +78,3 @@ Power BI Dashboard
 ## 👨‍💻 Author
 
 **Maitree Pimple**
-
-Aspiring Data Engineer | AWS | Python | SQL | Power BI
